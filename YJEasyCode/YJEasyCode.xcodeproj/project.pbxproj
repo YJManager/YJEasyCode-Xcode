@@ -55,9 +55,6 @@
 			children = (
 				635CF1381DBBBC8000B3ECE2 /* AppDelegate.h */,
 				635CF1391DBBBC8000B3ECE2 /* AppDelegate.m */,
-				635CF13E1DBBBC8000B3ECE2 /* Assets.xcassets */,
-				635CF1401DBBBC8000B3ECE2 /* MainMenu.xib */,
-				635CF1431DBBBC8000B3ECE2 /* Info.plist */,
 				635CF13B1DBBBC8000B3ECE2 /* Supporting Files */,
 			);
 			path = YJEasyCode;
@@ -66,6 +63,9 @@
 		635CF13B1DBBBC8000B3ECE2 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				635CF13E1DBBBC8000B3ECE2 /* Assets.xcassets */,
+				635CF1401DBBBC8000B3ECE2 /* MainMenu.xib */,
+				635CF1431DBBBC8000B3ECE2 /* Info.plist */,
 				635CF13C1DBBBC8000B3ECE2 /* main.m */,
 			);
 			name = "Supporting Files";
