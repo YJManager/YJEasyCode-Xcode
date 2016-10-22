@@ -6,11 +6,8 @@
 //  Copyright © 2016年 YJHou. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
-#import "AppDelegate.h"
+#import <Cocoa/Cocoa.h>
 
-int main(int argc, char * argv[]) {
-    @autoreleasepool {
-        return UIApplicationMain(argc, argv, nil, NSStringFromClass([AppDelegate class]));
-    }
+int main(int argc, const char * argv[]) {
+    return NSApplicationMain(argc, argv);
 }

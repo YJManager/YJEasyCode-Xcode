@@ -6,11 +6,9 @@
 //  Copyright © 2016年 YJHou. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import <Cocoa/Cocoa.h>
 
-@interface AppDelegate : UIResponder <UIApplicationDelegate>
-
-@property (strong, nonatomic) UIWindow *window;
+@interface AppDelegate : NSObject <NSApplicationDelegate>
 
 
 @end
